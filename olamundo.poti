@@ -1,0 +1,2 @@
+nome = "Mundo"
+escreva "ola {nome}"
