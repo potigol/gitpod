@@ -4,4 +4,6 @@
 
 Para executar digite:
 
+ <code>$ chmod +x lib/potigol.jar</code>
+
  <code>$ ./potigol olamundo.poti</code>
