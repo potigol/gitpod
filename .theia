@@ -1,0 +1,7 @@
+{
+   "editor.autoSave": "on",
+   "editor.dragAndDrop": true,
+   "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication",
+   "terminal.integrated.fontSize": 14,
+   "preview.openByDefault": true
+}
