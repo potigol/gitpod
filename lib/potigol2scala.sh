@@ -7,4 +7,4 @@ cat potigolutil.scala >> $1.scala
 echo "object Main extends App{" >> $1.scala
 potigol -d $1 | tail -n +6 >> $1.scala
 echo "}" >> $1.scala
-cat $1.scala | xclip -selection c
+echo O arquivo $1.scala foi criado
