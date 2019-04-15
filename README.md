@@ -6,7 +6,7 @@
 
  - digite <code>$ bash lib/config.sh</code>
 
- - depois abro um novo terminal
+ - depois abra um novo terminal
 
 ## Para executar digite:
 
