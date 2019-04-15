@@ -1,2 +1,3 @@
 tasks:
-  - command: bash lib/config.sh 
+  - command: bash lib/config.sh
+    command: source /home/gitpod/.bashrc
