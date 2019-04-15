@@ -1,9 +1,7 @@
 # Gitpod
 
-[Use o Potigol online no Gitpod](https://gitpod.io/#https://gihub.com/potigol/replit)
+[Use o Potigol online no Gitpod](https://gitpod.io/#https://gihub.com/potigol/gitpod)
 
 Para executar digite:
 
- <code>$ chmod +x lib/potigol.jar</code>
-
- <code>$ ./potigol olamundo.poti</code>
+<code>$ potigol olamundo.poti</code>
