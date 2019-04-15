@@ -1,6 +1,6 @@
 # Potigol Online com Gitpod
 
-[Use o Potigol online no Gitpod](https://gitpod.io/#https://github.com/potigol/gitpod/blob/master/README.md)
+[![Use o Potigol online no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/635c2c25-4a9a-4f97-a258-594be811ef1b)
 
 ## Para configurar
 
