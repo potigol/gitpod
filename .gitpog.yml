@@ -1,0 +1,2 @@
+tasks:
+- command: alias potigol="java -jar /workspace/gitpod/lib/potigol.jar 2> /dev/null"
