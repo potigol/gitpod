@@ -4,10 +4,17 @@
 
 ## Para configurar
 
- - digite <code>$ bash lib/config.sh</code>
+ - Digite <code>$ bash lib/config.sh</code>
 
- - depois abra um novo terminal
+ - Abra um novo terminal
+ 
+## Para enviar uma questão para o [URI online Judge](https://www.urionlinejudge.com.br):
 
-## Para executar digite:
+ - Digite <code>$ potigol2scala olamundo.poti</code>
+ - Copie o arquivo gerado e envie para o URI com a opção 'Linguagem Scala' 
 
-<code>$ potigol olamundo.poti</code>
+
+## Para executar:
+
+ - Digite <code>$ potigol olamundo.poti</code>
+
