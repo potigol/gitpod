@@ -1,3 +1,2 @@
 tasks:
-- command: echo "alias potigol='java -jar /workspace/gitpod/lib/potigol.jar 2> /dev/null'" >> ~/.bashrc |clear
-  command: echo "alias potigol2scala='/workspace/gitpod/lib/potigol2scala'" >> ~/.bashrc | clear
+  - command: echo "alias potigol='java -jar /workspace/gitpod/lib/potigol.jar 2> /dev/null'" >> ~/.bashrc 
