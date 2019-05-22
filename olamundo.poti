@@ -1,2 +1,2 @@
 nome = "Mundo"
-escreva "ola {nome}"
+escreva "ola {nome}!"
