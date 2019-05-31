@@ -1,2 +1,4 @@
 tasks:
-  - command: echo "alias potigol='java -jar /workspace/gitpod/lib/potigol.jar 2> /dev/null'" >> ~/.bashrc 
+  - before: echo "alias potigol='java -jar /workspace/gitpod/lib/potigol.jar 2> /dev/null'" >> ~/.bashrc
+    command: source ~/.bashrc
+    
