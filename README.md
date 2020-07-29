@@ -2,10 +2,24 @@
 
 [![Use o Potigol online no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/gitpod)
 
-## Para executar:
+## Para configurar
 
- - Digite <code>$ potigol olamundo.poti</code>
+Digite
+```console
+chmod +x lib/config.sh
+bash lib/config.sh
+```
 
+Abra um novo terminal
+
+
+## Para executar
+
+ - Digite:
+ 
+```console
+potigol olamundo.poti
+```
 
 ## Para enviar uma questão para o [URI online Judge](https://www.urionlinejudge.com.br):
 
