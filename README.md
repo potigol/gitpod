@@ -2,6 +2,11 @@
 
 [![Use o Potigol online no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/gitpod)
 
+## Linguagem Potigol
+
+ - [Documentação](https://potigol.github.io/docs/)
+ - [Exemplos](https://potigol.github.io/uoj-potigol)
+
 ## Para configurar
 
 Digite
