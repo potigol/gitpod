@@ -1,8 +1,3 @@
-tasks:
-  - before: echo "alias potigol='java -jar /workspace/gitpod/lib/potigol.jar 2> /dev/null'" >> ~/.bashrc
-    command: source ~/.bashrc
-    
-
 vscode:
   extensions:
     - potigol.potigol-language@0.0.1:2164153fdfb14a9e9143f4f73e1042cc
