@@ -1,6 +1,9 @@
 tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
     command: source ~/.bashrc
+    
+  - openMode: split-bottom
+    command: clear
 
 vscode:
   extensions:
