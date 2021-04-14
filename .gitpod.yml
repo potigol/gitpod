@@ -2,8 +2,8 @@ tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
     command: source ~/.bashrc
     
-  - openMode: split-bottom
-    command: clear
+  - openMode: tab-after
+    command: potigol olamundo.poti
 
 vscode:
   extensions:
