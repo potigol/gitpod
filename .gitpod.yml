@@ -1,6 +1,6 @@
 tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
-    command: cat lib/.bashrc >> ~/.bashrc
+    command: source ~/.bashrc
 
 vscode:
   extensions:
