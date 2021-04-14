@@ -1,9 +1,6 @@
 tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
-    command: source ~/.bashrc
-    
-  - openMode: tab-after
-    command: potigol olamundo.poti
+    command: source ~/.bashrc ; clear
 
 vscode:
   extensions:
