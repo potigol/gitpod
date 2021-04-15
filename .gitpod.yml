@@ -2,10 +2,10 @@ tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
     command: source ~/.bashrc ; clear
 
-  - command: open olamundo.poti ; open README.md ; clear
+  - command: open olamundo.poti ; open README.md ; exit
     openIn: main
 
-  - command: gp preview https://potigol.github.io/docs
+  - command: gp preview https://potigol.github.io/docs ; exit
 
 vscode:
   extensions:
