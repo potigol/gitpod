@@ -2,7 +2,7 @@ tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
     command: source ~/.bashrc ; clear
 
-  - command: open olamundo.poti
+  - command: open olamundo.poti ; open README.md ; clear
     openIn: main
 
 vscode:
