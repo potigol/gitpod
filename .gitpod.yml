@@ -2,6 +2,10 @@ tasks:
   - before: cat lib/.bashrc >> ~/.bashrc
     command: source ~/.bashrc ; clear
 
+  - command: open olamundo.poti
+    openIn: main
+
 vscode:
   extensions:
     - potigol.potigol-language@0.0.1:2164153fdfb14a9e9143f4f73e1042cc
+    - github.github-vscode-theme@1.1.5:31190ad5864f76dda85ac6080e6262db
