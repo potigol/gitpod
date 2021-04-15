@@ -5,6 +5,8 @@ tasks:
   - command: open olamundo.poti ; open README.md ; clear
     openIn: main
 
+  - command: gp preview https://potigol.github.io/docs
+
 vscode:
   extensions:
     - potigol.potigol-language@0.0.1:2164153fdfb14a9e9143f4f73e1042cc
