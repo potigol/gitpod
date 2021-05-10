@@ -4,6 +4,8 @@
 
 ## Para executar
 
+ - Clique no botão acima. (https://gitpod.io#https://github.com/potigol/gitpol)
+
  - Digite:
  
 ```console
