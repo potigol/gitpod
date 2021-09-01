@@ -2,6 +2,13 @@
 
 [![Use o Potigol online no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/gitpod)
 
+## Configuração (Codespace)
+
+```console
+./config_vscode.sh
+```
+
+
 ## Para executar
 
  - Clique no botão acima. (https://gitpod.io#https://github.com/potigol/gitpol)
