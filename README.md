@@ -2,6 +2,9 @@
 
 [![Use o Potigol online no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/potigol/gitpod)
 
+Este repositório já vem configurado para ser um ambiente de programação na web para ser usado pelo [Gitpod](https://gitpod.io#https://github.com/potigol/gitpod) ou [CodeSpace](https://github.dev/potigol/gitpod).
+
+
 ## Configuração (Codespace)
 
 ```console
