@@ -11,3 +11,4 @@ tasks:
 vscode:
   extensions:
     - github.github-vscode-theme
+    - Potigol.potigol-language
